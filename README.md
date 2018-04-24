@@ -18,6 +18,7 @@ List of the books which I can recommend:
     
  ### Management   
   * [Peopleware: Productive Projects and Teams (3rd Edition)](https://www.amazon.ca/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113) by Tom DeMarco and Tim Lister
+  * [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.ca/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) by Frederick P. Brooks Jr.
  
  ### Interview
  * [Java Programming Interviews Exposed](https://www.amazon.ca/Java-Programming-Interviews-Exposed-Markham/dp/1118722868) by Noel Markham
