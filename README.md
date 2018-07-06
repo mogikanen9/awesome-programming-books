@@ -4,6 +4,7 @@ List of the books which I can recommend:
  ### General
   * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=C6S7QA9Z4D83YT3Y83F1) by Robert C. Martin
   * [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.ca/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) by Robert C. Martin
+  * [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.ca/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?ie=UTF8&qid=1530837095&sr=8-1&keywords=the+pragmatic+programmer) by Andrew Hunt (Author) and David Thomas (Author) 
  
  ### Architecture and Design  
   * [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.ca/Building-Microservices-Designing-Fine-Grained-Systems-ebook/dp/B00T3N7XB4) by Sam Newman
