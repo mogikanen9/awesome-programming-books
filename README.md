@@ -11,6 +11,7 @@ List of the books which I can recommend:
   * [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.ca/Building-Microservices-Designing-Fine-Grained-Systems-ebook/dp/B00T3N7XB4) by Sam Newman
   * [Spring Microservices](https://www.amazon.ca/Spring-Microservices-Rajesh-RV/dp/1786466686) by Rajesh RV
   * [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.ca/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) by Robert C. Martin
+  * [Refactoring: Improving the Design of Existing Code](https://www.amazon.ca/Refactoring-Improving-Design-Existing-Code/dp/0201485672) by Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts
  
  ### Testing
   * [Practical Unit Testing with JUnit and Mockito](https://www.amazon.ca/Practical-Unit-Testing-JUnit-Mockito/dp/8393489393) by Tomek Kaczanowski
