@@ -12,6 +12,7 @@ List of the books which I can recommend:
   * [Spring Microservices](https://www.amazon.ca/Spring-Microservices-Rajesh-RV/dp/1786466686) by Rajesh RV
   * [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.ca/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) by Robert C. Martin
   * [Refactoring: Improving the Design of Existing Code](https://www.amazon.ca/Refactoring-Improving-Design-Existing-Code/dp/0201485672) by Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts
+  * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.ca/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=asc_df_1449373321/?tag=googleshopc0c-20&linkCode=df0&hvadid=293033033224&hvpos=1o1&hvnetw=g&hvrand=10982319922371239272&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9060193&hvtargid=pla-432535594773&psc=1) by Martin Kleppmann
  
  ### Testing
   * [Practical Unit Testing with JUnit and Mockito](https://www.amazon.ca/Practical-Unit-Testing-JUnit-Mockito/dp/8393489393) by Tomek Kaczanowski
