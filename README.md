@@ -19,6 +19,7 @@ List of the books which I can recommend:
  
  ### Java
   * [Effective Java (2nd Edition)](https://www.amazon.ca/Effective-Java-2nd-Joshua-Bloch/dp/0321356683) by Joshua Bloch
+  * [Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9](https://www.amazon.ca/Modern-Java-Recipes-Solutions-Difficult/dp/149197317X) by Ken Kousen
     
  ### Management   
   * [Peopleware: Productive Projects and Teams (3rd Edition)](https://www.amazon.ca/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113) by Tom DeMarco and Tim Lister
