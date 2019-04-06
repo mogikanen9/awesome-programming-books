@@ -23,6 +23,7 @@ List of the books which I can recommend:
     
  ### DevOps
   * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.ca/Phoenix-Project-DevOps-Helping-Business/dp/0988262509) by Gene Kim, Kevin Behr, George Spafford
+  * [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.ca/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/) by Gene Kim, Patrick Debois, John Willis, Jez Humble
  
  
  ### Management   
